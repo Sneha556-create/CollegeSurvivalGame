@@ -1,5 +1,7 @@
 # CollegeSurvivalGame
 An AI game
+HERE IS THE DEPLOYED VERSION
+college-survival-game.vercel.app
 📌 Project Overview
 
 College Survival Game is an AI-based 2D survival game where a student character must avoid real-life challenges such as assignments, exams, and environmental stress while maintaining attendance above a critical threshold.
