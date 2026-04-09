@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background: #111;
+    color: white;
+    font-family: Arial;
+}
+
+canvas {
+    background: #222;
+    display: none;
+    margin: auto;
+}
+
+.screen {
+    margin-top: 100px;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}

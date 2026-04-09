@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Student Survival</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- START SCREEN -->
+<div id="startScreen" class="screen">
+    <h1>AI Student Survival</h1>
+    <button onclick="startGame()">Start Game</button>
+</div>
+
+<!-- GAME SCREEN -->
+<canvas id="gameCanvas" width="600" height="600"></canvas>
+
+<!-- GAME OVER SCREEN -->
+<div id="gameOverScreen" class="screen hidden">
+    <h1>Game Over</h1>
+    <button onclick="restartGame()">Restart</button>
+</div>
+
+<script src="astar.js"></script>
+<script src="game.js"></script>
+
+</body>
+</html>
